@@ -1,0 +1,12 @@
+#include <SFML/Graphics.hpp>
+#include <SFML/System.hpp>
+
+
+        sf::Keyboard::isKeyPressed(sf::Keyboard::Space);
+        cursormove();
+        cursor.setPosition(cursorX, cursorY);
+        //for( int I = 0; I = 70 ;I = I + 1 )
+
+            //viv = rand() % 100 + 1;     // v2 in the range 1 to 100
+            tile[1].setPosition(600, 600);
+            tile[1].setFillColor(sf::Color::Red);
